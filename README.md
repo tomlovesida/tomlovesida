@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi I'm Thomas<br>Hi im a Fullstack Developer and Reverse engineer and also a part time video editor with 2-4 years of experience in each catagory<br><br>I'm a Reverse Engineer and Full Stack Developer
 
 
