@@ -3,10 +3,10 @@
 Hi im a Fullstack Developer and Reverse engineer and also a part time video editor with 2-4 years of experience in each catagory 
 
 
-I'm a **Reverse Engineer** 🕵️‍♂️ and **Full Stack Developer** 🧠  
+I'm a **Reverse Engineer**  and **Full Stack Developer** 
 I hate coding
 
-## 🧩 About Me
+##  About Me
 - 🔍 Reverse engineering enthusiast — binaries, assembly, exploits
 - 💻 Front end
 - 🧠 Backend
