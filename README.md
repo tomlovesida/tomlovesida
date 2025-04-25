@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 hi im tom im a inspiring full stack developer and penetration tester specialising in x64bdg ida pro and front end develoopment and API 
 
 ## 🌐 Socials:
