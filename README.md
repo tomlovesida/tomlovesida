@@ -1,4 +1,4 @@
-# Hey there, I'm Thomas
+# Hi I'm Thomas
 
 Hi im a Fullstack Developer and Reverse engineer and also a part time video editor with 2-4 years of experience in each catagory 
 
