@@ -4,7 +4,6 @@ Hi im a Fullstack Developer and Reverse engineer and also a part time video edit
 
 
 I'm a **Reverse Engineer**  and **Full Stack Developer** 
-I hate coding
 
 ##  About Me
 - 🔍 Reverse engineering enthusiast — binaries, assembly, exploits
