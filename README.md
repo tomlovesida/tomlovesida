@@ -1,10 +1,13 @@
 # Hey there, I'm Thomas
 
+Hi im a Fullstack Developer and Reverse engineer and also a part time video editor with 2-4 years of experience in each catagory 
+
+
 I'm a **Reverse Engineer** 🕵️‍♂️ and **Full Stack Developer** 🧠  
-I love tearing things apart to see how they work — and then building better ones.
+I hate coding
 
 ## 🧩 About Me
-- 🔍 Reverse engineering enthusiast — binaries, assembly, exploits, and beyond
+- 🔍 Reverse engineering enthusiast — binaries, assembly, exploits
 - 💻 Front end
 - 🧠 Backend
 - ⚙️ Never Coding always sleeping 
