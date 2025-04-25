@@ -1,6 +1,5 @@
-#  About Me:
-Hi I'm Thomas<br>Hi im a Fullstack Developer and Reverse engineer and also a part time video editor with 2-4 years of experience in each catagory<br><br>I'm a Reverse Engineer and Full Stack Developer
-
+# 💫 About Me:
+hi im tom im a inspiring full stack developer and penetration tester specialising in x64bdg ida pro and front end develoopment and API 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/xcu.org) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tomlovesbdg@gmail.com) 
@@ -11,6 +10,9 @@ Hi I'm Thomas<br>Hi im a Fullstack Developer and Reverse engineer and also a par
 ![](https://github-readme-stats.vercel.app/api?username=tomlovesida&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=tomlovesida&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tomlovesida&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tomlovesida&icon=0&color=0)](https://visitcount.itsvg.in)
