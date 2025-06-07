@@ -1,5 +1,5 @@
 # About Me:
-hi im tom im a inspiring full stack developer and penetration tester specialising in x64bdg ida pro and front end develoopment and API 
+hi im tom im a inspiring full stack developer speciallising in PHP laravel Javascript/Tyepscript
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/xcu.org) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tomlovesbdg@gmail.com) 
