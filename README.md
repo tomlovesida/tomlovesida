@@ -1,5 +1,5 @@
 # About Me:
-Hi, I'm Tom! I'm an aspiring full-stack developer specializing in PHP Laravel, Java and Javascript/Typescript
+Hi my name is Tom i'm a full stack developer specialising in TypeScript, Java, LaravelPHP and C++
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/xcu.org) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tomlovesbdg@gmail.com) 
